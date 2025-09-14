@@ -1,1 +1,8 @@
-/* место для вашего кода */
+header {
+  display: grid;
+}
+
+.logo {
+  width: 148px;
+  height: 105px;
+}
