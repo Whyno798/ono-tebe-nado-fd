@@ -19,7 +19,6 @@
 
 .header__links-list {
   display: flex;
-  flex-direction: row;
   gap: 33px;
   list-style: circle;
 }
@@ -42,7 +41,7 @@
   flex-direction: column;
   font-size: 18px;
   font-style: normal;
-  line-height: 24.3px;
+  line-height: 1.35em;
   text-underline-offset: 4px;
   padding-left: 50px;
 }
@@ -64,7 +63,7 @@
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
   width: 100%;
   height: 100%;
